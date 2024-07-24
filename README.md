@@ -5,6 +5,8 @@ Welcome to **AMES**, a highly adaptive multi-modal image matching project that l
 
 ## Data Structure
 
+Data can be download at https://github.com/LiaoYF001/AMES/releases
+
 The data is organized as follows:
 
 ```

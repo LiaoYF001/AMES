@@ -1,0 +1,9 @@
+{
+	"Folder": "Y:\\public_data\\liaoyifan\\MMT\\test22\\",
+	"Class": "DATA",
+	"Category": ["SNOW", "GF3", "GF7", "TanDEM-X", "HJ2", "OTHERS"],
+    "ParaSet": "auto",
+    "Border": 1,
+	"MaxIDs": 300,
+	"Transform": "similarity"
+}
